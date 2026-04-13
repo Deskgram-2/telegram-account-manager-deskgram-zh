@@ -29,6 +29,14 @@
 3. 用筛选功能查看目标账号子集。
 4. 把准备好的账号网格用于邀请、私信或收集流程。
 
+## 准备好的账号通常会流向哪里
+
+- [加群模块](https://github.com/Deskgram-2/telegram-join-groups-deskgram-zh)，如果先要让账号进入社区环境；
+- [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)，如果下一步是整理可用用户基础；
+- [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)，如果账号将用于批量触达；
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)，如果受众基础已经准备好并要继续做增长；
+- [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh)，如果账号将进入 AI 驱动的互动场景。
+
 ## 适合在什么情况下使用
 
 - 当一个工作区里同时管理很多 Telegram 账号；
@@ -52,6 +60,9 @@
 - [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)
 - [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)
 - [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)
+- [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)
+- [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)
+- [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh)
 
 ## FAQ
 
