@@ -54,6 +54,22 @@
 | 基础设施很难长期整洁 | 面板是稳定的控制层 |
 | 执行模块常从混乱状态开始 | 可以先把账号准备好再启动 |
 
+## 适用场景
+
+- 为 [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)、[邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh) 和 [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh) 准备不同账号分组；
+- 在大规模活动前区分活跃账号和备用账号；
+- 在进入 [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)、设置或执行模块之前先把账号层整理好；
+- 当多个 Deskgram 2 工作流并行时，用文件夹、团队或 use case 维持账号结构。
+
+## 该选哪个：账号面板还是任务管理器
+
+| 如果你的目标是 | 更适合哪个 |
+|---|---|
+| 整理并准备账号基础 | `账号面板` |
+| 观察正在运行的流程和状态 | [任务管理器](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh) |
+| 为某个新场景快速组装账号子集 | `账号面板` |
+| 监控实时错误、进度和完成情况 | [任务管理器](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh) |
+
 ## 相关仓库
 
 - [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh)
